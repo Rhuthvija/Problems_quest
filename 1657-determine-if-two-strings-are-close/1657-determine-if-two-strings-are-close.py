@@ -8,15 +8,14 @@ class Solution:
         count2 = {}
 
         for ch in word1:
-            count1[ch] = count1.get(ch, 0) + 1
-
+            count1[ch]=count1.get(ch,0)+1
         for ch in word2:
             count2[ch] = count2.get(ch, 0) + 1
 
-        if set(count1.keys()) != set(count2.keys()):
+        if set(count1.keys())!=set(count2.keys()):
             return False
 
-        if sorted(count1.values()) != sorted(count2.values()):
+        if sorted(count1.values())!=sorted(count2.values()):
             return False
 
         return True
