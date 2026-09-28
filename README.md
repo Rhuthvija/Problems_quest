@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Rhuthvija/Problems_quest/tree/master/1732-find-the-highest-altitude) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rhuthvija/Problems_quest/tree/master/1657-determine-if-two-strings-are-close) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rhuthvija/Problems_quest/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
