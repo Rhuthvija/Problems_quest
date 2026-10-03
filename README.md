@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Rhuthvija/Problems_quest/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/Rhuthvija/Problems_quest/tree/master/1732-find-the-highest-altitude) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Rhuthvija/Problems_quest/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Rhuthvija/Problems_quest/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
