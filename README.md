@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rhuthvija/Problems_quest/tree/master/0349-intersection-of-two-arrays) |
 | [0735-asteroid-collision](https://github.com/Rhuthvija/Problems_quest/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/Rhuthvija/Problems_quest/tree/master/1732-find-the-highest-altitude) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rhuthvija/Problems_quest/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rhuthvija/Problems_quest/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/Rhuthvija/Problems_quest/tree/master/2352-equal-row-and-column-pairs) |
 ## String
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rhuthvija/Problems_quest/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rhuthvija/Problems_quest/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Rhuthvija/Problems_quest/tree/master/0649-dota2-senate) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rhuthvija/Problems_quest/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rhuthvija/Problems_quest/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
